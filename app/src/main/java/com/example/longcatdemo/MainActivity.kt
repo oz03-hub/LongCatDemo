@@ -17,6 +17,7 @@ class MainActivity : AppCompatActivity(), CustomAdapter.OnItemClickListener {
     fun getBuildings() : List<Building> {
         val listNow = ArrayList<Building>()
 
+        //Failed to read from a CSV file in Kotlin
         listNow.add(Building("Dickinson Hall,68.77,16755.32,true,https://www.umass.edu/living/residence/orchard/dickinson,151 Orchard Hill Drive"))
         listNow.add(Building("Webster Hall,99.3,25056.67,true,https://www.umass.edu/living/residence/orchard/webster,141 Orchard Hill Drive"))
         listNow.add(Building("Grayson Hall,79.34,45.3,false,https://www.umass.edu/living/residence/orchard/grayson,161 Orchard Hill Drive"))
