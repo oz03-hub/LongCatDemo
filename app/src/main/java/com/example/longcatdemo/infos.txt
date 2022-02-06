@@ -1,0 +1,4 @@
+Dickinson Hall,100.0,200.0,true,https://www.umass.edu/living/residence/orchard/dickinson,151 Orchard Hill Drive
+Webster Hall,100.0,200.0,true,https://www.umass.edu/living/residence/orchard/webster,141 Orchard Hill Drive
+Grayson Hall,100.0,200.0,true,https://www.umass.edu/living/residence/orchard/grayson,161 Orchard Hill Drive
+Field Hall,100.0,200.0,true,https://www.umass.edu/living/residence/orchard/field,171 Orchard Hill Drive

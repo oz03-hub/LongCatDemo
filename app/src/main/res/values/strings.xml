@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LongCatDemo</string>
+
+    <string-array name="buildings_full_names">
+        <item>Dickinson Hall</item>
+        <item>Webster Hall</item>
+        <item>Grayson Hall</item>
+        <item>Field Hall</item>
+    </string-array>
+</resources>

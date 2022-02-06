@@ -1,0 +1,4 @@
+Dickinson Hall,100.0,200.0,true,URL
+Webster Hall,100.0,200.0,true,URL
+Grayson Hall,100.0,200.0,true,URL
+Field Hall,100.0,200.0,true,URL
